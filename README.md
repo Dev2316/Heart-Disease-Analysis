@@ -69,3 +69,11 @@ The Power BI dashboard helps users explore:
 - Relationships between medical factors and heart disease
 - Visual summaries for better decision-making
 
+Team Information
+
+## Group 8
+Dev Rakeshkumar Patel
+Dev Sureshbhai Patel
+Harsh Sharadkumar Patel
+Maharshi Mayankbhai vyas
+Parth Rakeshkumar Modi
